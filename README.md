@@ -26,7 +26,7 @@
 - [x] Create
 
 #### 4.Refer to the exhibit
-![](image2.png) 
+![](images/image2.png) 
 
 #### What needs to be done in order to enable the developer to complete this requested task? (Choose two.)
 
@@ -269,7 +269,7 @@
 
 
 #### 33. Refer to the exhibit.
-![](image3.png)
+![](images/image3.png)
 
 #### Saving the Calm Blueprint gives the validation error for VMware Blueprints shown in the exhibit.
 #### What could be the cause of the error?
