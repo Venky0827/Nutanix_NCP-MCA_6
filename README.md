@@ -8,7 +8,7 @@
 - [ ] HTTP task with built-in macros
 
 #### 2. Refer to the exhibit.
-![](image1.png)
+![sjk](images/image1.png)
 
 #### The Playbook is designed to execute a script, in order to fix a known problem in the application. However, it keeps failing.
 #### Why is this Playbook continuing to fail?
