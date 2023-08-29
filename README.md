@@ -47,9 +47,9 @@
 #### What should the administrator do to satisfy this requirement? (DOUBT)
 
 - [ ] Create an alert for all VMs, create a Playbook with this alert as the trigger and send an email as the action.
-- [ ] Create an alert for VMs in the correct category, create a Playbook with this alert as the trigger > take a snapshot > send an email  as the action.
+- [x] Create an alert for VMs in the correct category, create a Playbook with this alert as the trigger > take a snapshot > send an email  as the action.
 - [ ] Create an alert for all VMs, create a Playbook with this alert as the trigger > reduce 1 CPU > send an email as the action.
-- [x] Create an alert for VMs in the correct category, create a Playbook with this alert as the trigger and send an email as the action.
+- [ ] Create an alert for VMs in the correct category, create a Playbook with this alert as the trigger and send an email as the action.
 
 #### 7. A developer has a Development Blueprint that performs the following high level items:
 #### Creates a Windows and Ubuntu Server.
